@@ -1,4 +1,4 @@
-elcome to HearMeWhenYouCanNotSeeMe, an innovative Android app designed to empower deaf and mute individuals by enabling seamless communication through American Sign Language (ASL) recognition. Powered by the cutting-edge MediaPipe framework, this app leverages advanced hand-tracking technology to translate sign language gestures into text in real-time, breaking down communication barriers.
+Welcome to HearMeWhenYouCanNotSeeMe, an innovative Android app designed to empower deaf and mute individuals by enabling seamless communication through American Sign Language (ASL) recognition. Powered by the cutting-edge MediaPipe framework, this app leverages advanced hand-tracking technology to translate sign language gestures into text in real-time, breaking down communication barriers.
 
 🌟 Project Vision
 
