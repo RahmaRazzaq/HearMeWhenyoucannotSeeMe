@@ -1,11 +1,21 @@
-This Project aims the production of an android app that will help deaf-muted people to comunicate, using recently developed framework called MediaPipe and applying the hand tracking solution to deliver American Sign language recognition.
+elcome to HearMeWhenYouCanNotSeeMe, an innovative Android app designed to empower deaf and mute individuals by enabling seamless communication through American Sign Language (ASL) recognition. Powered by the cutting-edge MediaPipe framework, this app leverages advanced hand-tracking technology to translate sign language gestures into text in real-time, breaking down communication barriers.
 
-A paper as been produced and will be stored here for future reference once it has been processed by Brighton University.
+🌟 Project Vision
 
-The runnable apk file can be downloaded from dropbox in this link:
-https://www.dropbox.com/s/3pe8xl8davvejd9/HearMeWhenYouCanNotSeeMe.apk?dl=0
+Our mission is to create an inclusive world where everyone can communicate effortlessly. By harnessing the power of machine learning and hand-tracking technology, HearMeWhenYouCanNotSeeMe provides a user-friendly platform for ASL users to express themselves and connect with others.
 
-Please, feel free to share your comments with me.
+📄 Research Paper
 
-Thanks you!
+A detailed research paper outlining the development process, technical implementation, and impact of this project has been submitted to Brighton University. Once processed, it will be available here for reference. Stay tuned!
 
+📱 Try the App
+
+Ready to experience the app? Download the runnable APK file from Dropbox and start exploring: Download APK
+
+💬 Get Involved
+
+We’d love to hear your feedback! Whether you have suggestions, questions, or ideas for improvement, please share your thoughts with us. Your input helps us make this app even better.
+
+🙏 Thank You
+
+Thank you for supporting this project and our mission to foster inclusive communication. Together, we can make a difference!
