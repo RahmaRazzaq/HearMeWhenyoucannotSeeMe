@@ -16,6 +16,3 @@ Ready to experience the app? Download the runnable APK file from Dropbox and sta
 
 We’d love to hear your feedback! Whether you have suggestions, questions, or ideas for improvement, please share your thoughts with us. Your input helps us make this app even better.
 
-🙏 Thank You
-
-Thank you for supporting this project and our mission to foster inclusive communication. Together, we can make a difference!
